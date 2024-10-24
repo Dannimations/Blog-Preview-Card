@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    background-color: #f5d04e;
+    font-family: Figtree;
+}
+#main-container{
+    position: relative;
+    top: 50px;
+    left: 35%;
+    width: 25%;
+    background-color: white;
+    border-radius: 14px;
+    padding: 20px 20px;
+    border: 2px solid;
+    box-shadow: 10px 10px;
+}
+#main-container button{
+    background-color: #f5d04e;
+    padding: 5px 5px;
+    border-color: rgba(0, 0, 0, 0);
+    border-radius: 5px;
+}
+#Greg{
+    position: relative;
+    left: 15px;
+    top: 5px;
+}
